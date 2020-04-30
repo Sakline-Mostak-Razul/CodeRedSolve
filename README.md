@@ -1,4 +1,4 @@
-# codeRed_solutions
+# Code Red Solutions
 Competetive Programming : Online Judge Problems Solution
 
 ## Topic
